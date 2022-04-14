@@ -1,0 +1,11 @@
+Select all movies:
+('Interstellar', 'Matthew McConaughey', 'Anne Hathaway', 2014, 'Christopher Nolan')
+('Avatar', 'Sam Worthington', 'Zoe Saldana', 2009, 'James Cameron')
+('The Dark Knight', 'Christian Bale', 'Heath Ledger', 2008, 'Christopher Nolan')
+('Avengers: Infinity War', 'Robert Downey Jr', 'Chrissie Smith', 2018, 'Anthony Russo')
+('Iron Man 3', 'Robert Downey Jr', 'Gwyneth Paltrow', 2013, 'Shane Black')
+
+
+Select all movies with the actor 'Robert Downey Jr':
+('Avengers: Infinity War', 2018, 'Anthony Russo')
+('Iron Man 3', 2013, 'Shane Black')
